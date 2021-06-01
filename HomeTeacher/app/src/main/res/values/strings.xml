@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">家教小助手</string>
+    <string name="title_home">做题</string>
+    <string name="title_dashboard">设置</string>
+    <string name="title_history">历史数据</string>
+
+    <string name="question_answer_default">你的答案是？</string>
+    <string name="question_next_button_title">不会，下一题</string>
+    <string name="question_ok_button_title">想好了，提交</string>
+    <string-array name="level">
+        <item>一年级</item>
+        <item>二年级</item>
+        <item>三年级</item>
+    </string-array>
+</resources>
